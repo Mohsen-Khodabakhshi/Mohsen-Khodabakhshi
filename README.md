@@ -7,7 +7,7 @@
 
 ----
 ### ∞ Contributions
-- [Sentry - sentry-python](https://github.com/getsentry/sentry-python/pull/3278) [![](https://img.shields.io/badge/Sentry-orange?style=plastic&logo=sentry)](https://linux.org/)
+- [Sentry - sentry-python](https://github.com/getsentry/sentry-python/pull/3278) [![](https://img.shields.io/badge/Sentry-orange?style=plastic&logo=sentry)](#)
 
 ![](https://github-contributor-stats.vercel.app/api?username=gophersen&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
