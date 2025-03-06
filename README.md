@@ -1,11 +1,28 @@
-<p align="center" "> 
- <strong>             
-   Hey there, I'm Mohsen - a wizard of the Backend realm!
-</p>
-  <p align="center"> 
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="go" width="40" height="40" />
-  
-  My online haunts: [Linkedin](https://www.linkedin.com/in/mohsen-khodabakhshi/) | [Twitter](https://twitter.com/pygopher) | [Instagram](https://www.instagram.com/_themohsen_/) | [Website](https://mohsen.digital)
+### Mohsen Khodabakhshi
+###### Software engineer
+[![](https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python)](https://www.python.org/)
+[![](https://img.shields.io/badge/-go-black?style=for-the-badge&logo=go)](https://go.dev/)
+[![](https://img.shields.io/badge/-linux-black?style=for-the-badge&logo=linux)](https://linux.org/)
+[![](https://img.shields.io/badge/-kubenetes-black?style=for-the-badge&logo=kubernetes)](https://linux.org/)
+
+----
+### Contributions
+- [Sentry - sentry-python](https://github.com/getsentry/sentry-python/pull/3278) [![](https://img.shields.io/badge/Sentry-orange?style=plastic&logo=sentry)](https://linux.org/)
+
+![](https://github-contributor-stats.vercel.app/api?username=mohsen-khodabakhshi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+----
+### My open-source projects
+- [URL-shortener](https://github.com/mohsen-khodabakhshi/url-shortener) with high performance.
+- Robotic arm: [MeArm](https://github.com/Mohsen-Khodabakhshi/MeArm)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsen-khodabakhshi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+----
+### Contact Me
+[![image](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/deep_geek)
+[![image](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pygopher)
+[![image](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Mohsen-Khodabakhshi/)
+
+----
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
